@@ -326,4 +326,4 @@ AI Enemy Kit is a **commercial asset**. Source code available only to Asset Stor
 - ❌ Redistribute, resell, or include in other packages
 - ❌ Share source code publicly
 
-© 2024 Haner Games — hanergames.com.tr
+© 2026 Haner Games — hanergames.com.tr
