@@ -2,7 +2,7 @@
 
 [![Unity](https://img.shields.io/badge/Unity-2021.3%2B-black?logo=unity)](https://unity.com)
 [![License](https://img.shields.io/badge/License-Commercial-red)](#license)
-[![Asset Store](https://img.shields.io/badge/Asset%20Store-$24.99-orange)](https://assetstore.unity.com)
+[![Asset Store](https://img.shields.io/badge/Asset%20Store-$19.99-orange)](https://assetstore.unity.com)
 [![Publisher](https://img.shields.io/badge/Publisher-Haner%20Games-purple)](https://hanergames.com.tr)
 [![FPS Kit](https://img.shields.io/badge/FPS%20Kit-Compatible-brightgreen)](https://hanergames.com.tr)
 
